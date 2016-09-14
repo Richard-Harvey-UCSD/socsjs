@@ -1,4 +1,7 @@
 # socsjs (schedule of classes scraper)
+[![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/socsjs)
+[![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)](https://www.npmjs.com/package/socsjs)
+
 A scraper that simulates an API for [UCSD's Schedule of Classes](https://act.ucsd.edu/scheduleOfClasses/scheduleOfClassesStudent.htm)  
 Many thanks to [andrewthehan](https://github.com/andrewthehan) and [davidmrdavid](https://github.com/davidmrdavid)
 
