@@ -1,0 +1,18 @@
+{
+  "name": "socsjs",
+  "version": "1.0.0",
+  "description": "Unofficial API for UCSD Schedule of Classes",
+  "author": "Jonathan (papernotes)",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.2.1"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "0.20.0",
+    "request": "2.74.0"
+  }
+}
