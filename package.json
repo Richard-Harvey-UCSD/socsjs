@@ -5,6 +5,10 @@
   "author": "Jonathan (papernotes)",
   "main": "index.js",
   "homepage": "https://github.com/papernotes/socsjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/papernotes/socsjs"
+  },
   "engines": {
     "node": ">=4.2.1"
   },
